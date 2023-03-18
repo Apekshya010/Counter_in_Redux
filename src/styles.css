@@ -1,0 +1,36 @@
+button{
+    width:auto;
+    height:auto;
+    color:white;
+    font-size: 25px;
+    border:none;
+    border-radius:5px;
+    margin:30px;
+    padding:20px;
+
+}
+.incbutton{
+    background-color: rgb(29, 121, 25);
+}
+.incbutton:hover{
+    background-color:rgb(38, 159, 34); ;
+}
+.decbutton{
+    background-color: rgb(208, 43, 43);
+}
+.decbutton:hover{
+    background-color:rgb(232, 37, 37); ;
+}
+.number{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.App-header{
+    font-size: 40px;
+    border-bottom:1px solid grey;
+    padding: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    margin-bottom: 40px;
+}
